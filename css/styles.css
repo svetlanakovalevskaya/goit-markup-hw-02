@@ -2,6 +2,10 @@ a{
   text-decoration: none;
 }
 
+a:visited{
+  text-decoration: none; 
+}
+
 .page-head{
   background: #FFFFFF;
 }
@@ -36,15 +40,6 @@ a{
 
 .address-link:hover{
   color: #2196F3;
-}
-
-.site-nav-link:visited{
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
 }
 
 .header-address-container{
