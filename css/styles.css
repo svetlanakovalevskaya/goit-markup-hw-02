@@ -160,3 +160,7 @@ a{
   background: #F5F4FA;
   border-radius: 4px;
 }
+
+.remove-markers{
+  list-style: none;
+}
