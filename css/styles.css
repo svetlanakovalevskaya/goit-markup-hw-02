@@ -30,6 +30,10 @@ a{
   color: #212121;
 }
 
+.site-nav:hover{
+  color: #2196F3;
+}
+
 .header-address-container{
   color: #757575;
   font-family: Roboto;
@@ -38,6 +42,10 @@ a{
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+}
+
+.header-address-container:hover{
+  color: #2196F3;
 }
 
 .footer-address-container{
