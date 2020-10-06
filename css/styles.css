@@ -15,6 +15,10 @@
   color: #2196F3;
 }
 
+a{
+  text-decoration: none;
+}
+
 .site-nav{
   font-family: Roboto;
   font-style: normal;
