@@ -38,6 +38,10 @@ a{
   color: #2196F3;
 }
 
+.site-nav-link:visited{
+  text-decoration: none;
+}
+
 .header-address-container{
   font-family: Roboto;
   font-style: normal;
