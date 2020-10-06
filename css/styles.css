@@ -91,12 +91,30 @@ a{
   color: #FFFFFF;
 }
 
+.features-container{
+  background: #FFFFFF;
+  font-family: Roboto;
+  font-style: normal;
+  letter-spacing: 0.03em;
+}
+
 .title-features{
   display: none;
 }
 
 .title-paragraph-features{
   text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #212121;
+}
+
+.text-paragraph-features{
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #757575;
 }
 
 .button-order-service{
@@ -112,10 +130,6 @@ a{
   text-align: center;
   letter-spacing: 0.06em;
   color: #FFFFFF;
-}
-
-.features-container{
-  background: #FFFFFF;
 }
 
 .services-container{
