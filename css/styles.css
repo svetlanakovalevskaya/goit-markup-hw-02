@@ -35,7 +35,7 @@ a{
 }
 
 .site-nav-link:visited{
-  text-decoration: none;
+  color: #212121;
 }
 
 .address-link:hover{
