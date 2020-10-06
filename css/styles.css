@@ -30,22 +30,25 @@ a{
   color: #212121;
 }
 
-.site-nav-link .header-address-container .nav-projects-container:hover{
+.site-nav-link .address-link .nav-projects-container:hover{
   color: #2196F3;
 }
 
 .logo .site-nav-link:visited{
-  color: #212121;
+  text-decoration: none;
 }
 
 .header-address-container{
-  color: #757575;
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+}
+
+.address-link{
+  color: #757575;
 }
 
 .footer-address-container{
