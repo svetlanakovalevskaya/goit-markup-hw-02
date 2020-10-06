@@ -54,7 +54,7 @@ a{
   letter-spacing: 0.02em;
 }
 
-.address-link{
+.header-address-link{
   color: #757575;
 }
 
@@ -65,7 +65,14 @@ a{
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
+}
+
+.footer-address-link{
   color: rgba(255, 255, 255, 0.6);
+}
+
+.post-address{
+  color: #FFFFFF;
 }
 
 .page-hero{
