@@ -30,7 +30,11 @@ a{
   color: #212121;
 }
 
-.site-nav-link .address-link .nav-projects-container:hover{
+.site-nav-link:hover{
+  color: #2196F3;
+}
+
+.address-link:hover{
   color: #2196F3;
 }
 
