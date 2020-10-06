@@ -30,8 +30,12 @@ a{
   color: #212121;
 }
 
-.site-nav:hover{
+.site-nav-link .header-address-container .nav-projects-container:hover{
   color: #2196F3;
+}
+
+.logo .site-nav-link:visited{
+  color: #212121;
 }
 
 .header-address-container{
@@ -42,10 +46,6 @@ a{
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
-}
-
-.header-address-container:hover{
-  color: #2196F3;
 }
 
 .footer-address-container{
@@ -115,4 +115,9 @@ a{
 
 .project-card{
   background: #FFFFFF;
+}
+
+.nav-projects-container{
+  background: #F5F4FA;
+  border-radius: 4px;
 }
