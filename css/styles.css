@@ -2,6 +2,28 @@
   background: #FFFFFF;
 }
 
+.logo{
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+
+.part-logo-web{
+  color: #2196F3;
+}
+
+.site-nav{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+}
+
 .page-hero{
   background: #2F303A;
 }
