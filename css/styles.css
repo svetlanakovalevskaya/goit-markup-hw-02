@@ -27,15 +27,14 @@ a{
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.02em;
+}
+
+.site-nav-link{
   color: #212121;
 }
 
 .site-nav-link:hover{
   color: #2196F3;
-}
-
-.site-nav-link:visited{
-  color: #212121;
 }
 
 .address-link:hover{
