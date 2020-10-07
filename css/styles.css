@@ -50,7 +50,6 @@
   background: #2F303A;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
-  letter-spacing: 0.06em;
   text-align: center;
 }
 
@@ -60,6 +59,7 @@
   line-height: 60px;
   text-transform: uppercase;
   color: #FFFFFF;
+  letter-spacing: 0.06em;
 }
 
 .button-order-service{
@@ -71,6 +71,7 @@
   display: flex;
   align-items: center;
   border-radius: 4px;
+  letter-spacing: 0.06em;
   color: #FFFFFF;
 }
 
