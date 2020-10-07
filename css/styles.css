@@ -208,4 +208,13 @@ a{
 
 .button-body{
   background: #F5F4FA;
+  border-color: #F5F4FA;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
 }
