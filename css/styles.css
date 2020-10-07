@@ -190,6 +190,8 @@
 
 .projects-cards-container{
   background: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
 }
 
 .project-card{
@@ -199,8 +201,6 @@
 }
 
 .title-project{
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: bold;
   font-size: 18px;
   line-height: 36px;
@@ -209,8 +209,6 @@
 }
 
 .project-type{
-  font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 30px;
