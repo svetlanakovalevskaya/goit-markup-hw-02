@@ -166,8 +166,7 @@ a{
 }
 
 .nav-projects-container{
-  background: #F5F4FA;
-  border-radius: 4px;
+  background: #FFFFFF;
 }
 
 .remove-markers{
@@ -205,4 +204,8 @@ a{
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
+}
+
+.button-body{
+  background: #F5F4FA;
 }
