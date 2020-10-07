@@ -80,7 +80,7 @@ a{
 }
 
 address{
-  font-style: normal;
+  font-style: normal !important;
 }
 
 .page-hero{
