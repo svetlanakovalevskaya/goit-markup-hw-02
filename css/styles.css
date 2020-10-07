@@ -24,6 +24,10 @@ a{
   color: #2196F3;
 }
 
+.part-logo-web::first-letter{
+  font-family: Oleo Script;
+}
+
 .site-nav{
   font-family: Roboto;
   font-style: normal;
