@@ -51,6 +51,7 @@ a{
 
 .header-address-container{
   font-family: Roboto;
+  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -64,6 +65,7 @@ a{
 .footer-address-container{
   font-family: Roboto;
   font-weight: normal;
+  font-style: normal;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
@@ -77,10 +79,8 @@ a{
   color: #FFFFFF;
   font-size: 14px;
   line-height: 24px;
-}
-
-address{
-  font-style: none;
+  font-family: Roboto;
+  font-style: normal;
 }
 
 .page-hero{
